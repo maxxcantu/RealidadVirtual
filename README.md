@@ -7,4 +7,4 @@ Compuesto por:
   -Carpeta 'hardware': contiene fotos del hardware a utilizar para realizar el proyecto
   -index.html: código con sitio web 'html' mediante el cuál se podrá realizar el control de movimiento de la cámara
   -sliders.js: código javascript para la lectura de valores de ángulo e intensidad de luz, dados por los sliders de la app web
-  
+  -web.jpg: captura de pantalla de la app web desarrollada
