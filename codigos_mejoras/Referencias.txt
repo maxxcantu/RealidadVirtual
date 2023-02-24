@@ -1,0 +1,6 @@
+- Primero: Sacar foto desde una appa web, guardarla en memoria flash y visualizarla en la misma.
+- Segundo: Guardar foto en tarjeta SD.
+- Primero + segundo: Sacar foto desde botón en app web, guardarla en memoria flash para visualizarla en app web y guardarla también en tarjeta SD.
+- Tercero: Capturar foto automáticamente cada cierto tiempo utilizando timer e interrupciones internas del microcontrolador.
+- Cuarto: Procesamiento y clsficiación de imagen capturada.
+- Tercero + cuarto: Capturar imagen cada cierto tiempo, procesarla, clasificarla y activar enviar mensaje de alarma si no hay persona en 3 imagenes consecutivas.
