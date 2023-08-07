@@ -10,4 +10,4 @@ Compuesto por:
   -index.html: código con sitio web 'html' mediante el cuál se podrá realizar el control de movimiento de la cámara.
   -sliders.js: código javascript para la lectura de valores de ángulo e intensidad de luz, dados por los sliders de la app web.
   -web.jpg: captura de pantalla de la app web desarrollada.
-  -Carpeta 'codigos_mejoras': contiene archivo de texto con referencias de los codigos utilizados para realzar las mejoras de visión artificial, al,acenamiento    en memoria flash y memoria SD, uso de interrupciones internas y timer.
+  -Carpeta 'codigos_mejoras': contiene archivo de texto con referencias de los codigos utilizados para realzar las mejoras de visión artificial, almacenamiento en memoria flash y memoria SD, uso de interrupciones internas y timer.
