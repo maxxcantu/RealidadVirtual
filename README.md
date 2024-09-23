@@ -1,7 +1,6 @@
-# RealidadVirtual
-Proyecto final de la cátedra Realidad Virtual de la Facultad de Ingenieria de la UNCuyo
+# Sistema de supervisión de operarios de cosecha con IA
 
-Consiste en añadir a un robot diferencial seguidor de luz previamente construido y desarrollado, un sistema de cámara PAN-TILT junto con un módulo ESP32-CAM con WiFi incluido. El movimiento de la cámara se realiza remotamente desde una sitio web creado para dicho propósito, en el cual se puede visualizar la imagen recibida de la camara y se puede controlar el movimiento horizontal de la misma mediante 2 servomotores situados en la parte frontal del robot diferencial. Además, se puede aumentar y disminuir la intensidad del brillo del flash que contiene la placa. 
+Proyecto que consiste en añadir a un robot diferencial seguidor de luz previamente construido y desarrollado, un sistema de cámara PAN-TILT junto con un módulo ESP32-CAM con WiFi incluido. El movimiento de la cámara se realiza remotamente desde una sitio web creado para dicho propósito, en el cual se puede visualizar la imagen recibida de la camara y se puede controlar el movimiento horizontal de la misma mediante 2 servomotores situados en la parte frontal del robot diferencial. Además, se puede aumentar y disminuir la intensidad del brillo del flash que contiene la placa. 
 
 Se agregan 2 modos de uso: Modo manual para capturar foto desde app web y visualizarla en al misma. Modo automático que captura imagenes cada cierto tiempo, las procesa con un sistma de visión artificial, determina si hay personas o no y activa una señal de alarma en el caso que pasadas 3 fotos consecutivas con ausencia de persona.
 
